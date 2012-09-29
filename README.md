@@ -21,3 +21,7 @@ See the “[Installation](https://github.com/joyent/node/wiki/Installation)” a
 ### Example
 
 ![screenshot](http://habrastorage.org/storage2/4db/d95/7ba/4dbd957ba9e9497b0e40ac4f0064eb2b.png)
+
+## License
+
+MIT License.
