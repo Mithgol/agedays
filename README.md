@@ -24,4 +24,4 @@ See the “[Installation](https://github.com/joyent/node/wiki/Installation)” a
 
 ## License
 
-MIT License.
+MIT License, see the `LICENSE` file.
